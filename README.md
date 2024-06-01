@@ -1,0 +1,2 @@
+# homes -system
+ Sistema de homes que fiz, um dos primeiros script produzidos por mim em conjunto com wolf, o script foi produzido em 2022 e foi descontinuado, está funcionando perfeitamente, talvez precise de alguma adaptação para sincar sua garagem e seu inventário, mas é coisa pouca, um pouco de lógica e conhecimento básico você consegue dar continuidade e até mesmo melhorar, a baixo vou deixar um vídeo preview do mesmo
