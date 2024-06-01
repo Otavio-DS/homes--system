@@ -1402,21 +1402,3 @@ function src.ListarMoradores(home)
 		end
 	end
 end 
-
-
-AddEventHandler('onResourceStart', function(resourceName)
-	if (GetCurrentResourceName() ~= resourceName) then
-	  return
-	end
-	print(resourceName,'^2INICIADO^0')
-	Wait(10000)
-	print( "[+] ^2Autenticado^0 - Qualquer dúvida entre em contato com -> ^4dossantosrp.")
-end)
-
-AddEventHandler('onResourceStop', function(resourceName)
-	if (GetCurrentResourceName() ~= resourceName) then
-	  return
-	end
-	print(resourceName,'^1PARADO^0')
-end)
-
