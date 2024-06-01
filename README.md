@@ -8,3 +8,10 @@ uma ou outra função do antigo script .
 # Otimiazação
 Lembre-se que existem coisas que podem ser melhoradas no código se quiser pode fazer a vontade e contribuir conosco, tentarei atualizar o código e otimizar o mesmo
 em um futuro próximo.
+
+# Necessário
+Necessário o uso do dynamic para funcionalidades do mesmo
+
+
+# Vídeo 
+https://www.youtube.com/watch?v=Q5BXcraSCPc&t=42s
