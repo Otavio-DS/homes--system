@@ -5,7 +5,7 @@ O código foi feito em cima de um anterior de casas.
 Opitamos por isso pois iriamos utilizar o mesmo estilo de DB, o que não ocorreu e acabamos no final refazendo quase todo o código ficando apenas
 uma ou outra função do antigo script .
 
-# Otimazação
+# Otimização
 Lembre-se que existem coisas que podem ser melhoradas no código se quiser pode fazer a vontade e contribuir conosco, tentarei atualizar o código e otimizar o mesmo
 em um futuro próximo.
 
